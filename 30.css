@@ -1,4 +1,10 @@
 body {
 	font-family: 'Dosis', sans-serif;
-	font-size: 72pt;
+}
+
+h1 {
+	font-size: 82pt;
+	width: 82%;
+	margin-left: auto;
+	margin-right: auto;
 }
