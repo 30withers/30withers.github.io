@@ -1,0 +1,17 @@
+.media {
+    width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 30px;
+}
+
+.image img {
+    width: inherit;
+}
+
+/* ----------- Retina Screens ----------- */
+@media all and (min-width: 705px) {
+    .media {
+        margin-bottom: 45px;
+    }
+}
